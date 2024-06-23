@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#FFC;
+	margin-top:-1PX;}
+
+.links1{
+	line-height:40px;
+	color:#fff;
+	font-family:"Times New Roman", Times, serif;
+	font-size:22px;
+	text-decoration:none;
+	text-align:left;
+	}
+	.tdcolors{
+		background-color:#d8b75a;
+		height:50px;
+		padding:4px 4px 4px 4px;}
+		.title1{
+		background-color:#725c44;
+		height:30px;
+		width:auto;
+		padding:4px 4px 4px 4px;
+			}
+
+.header{
+	width:1000px;
+	height:298px;
+	background-color:#d8b75a;
+	margin:0 auto;
+	border:solid 1px #fff;
+	border-radius:22px 0px 22px 0px;
+	background-image:url(images/headerbg.png);
+	background-repeat:no-repeat;
+	background-position:center;}
+
+.menu{
+	color:#fff;
+	width:900px;
+	height:40px;
+	background-color:#d8b75a;
+	background-image:url(images/headerbg.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin:0 auto;
+	border-radius:0px 0px 5px 5px;
+	padding-top:10px;
+	text-align:center;}
+	.menu a{
+		color:#fff;
+		font-family:Tahoma, Geneva, sans-serif;
+		font-size:13px;
+		text-decoration:none;}
+		.menu a:hover{
+			color:#FF9;}
+		
+	
+.marquee{
+	width:890px;
+	color:#fff;
+	background-color:rgba(255, 255, 255, 0.3);
+	height:30px;
+	margin:0 auto;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;}
+	
+.content{
+	padding-top:100px;
+	width:900px;
+	height:auto;
+	color:#fff;
+	font-size:16px;
+	background-color:#d8b75a;
+	background-image:url(images/bg2.jpg);
+	margin:0 auto;
+	border-radius:0px 0px 5px 5px;}
+	
+
+.bottom{
+	width:900px;
+	height:200px;
+	background-color:#725c44;
+	margin:0 auto;
+	border:solid 1px #fff;
+	border-radius:0px 0px 5px 5px;}
+
+.foter{
+	width:900px;
+	color:#CCC;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	padding-top:10px;
+	height:30px;
+	background-color:#725c44;
+	margin:0 auto;
+	border-radius:0px 0px 8px 8px;}
